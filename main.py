@@ -31,7 +31,7 @@ from telegram.ext import (
 )
 
 # -------- CONFIG --------
-BOT_TOKEN = os.getenv("BOT_TOKEN", "PUT_YOUR_TOKEN_HERE")
+BOT_TOKEN = "8100422755:AAFYTdPhBBpFam-9P-l3gxIraS5wEmTMR7I"
 DEFAULT_TZ = os.getenv("TZ", "Europe/Chisinau")
 DEFAULT_HOUR = int(os.getenv("SEND_HOUR", "7"))
 DEFAULT_MINUTE = int(os.getenv("SEND_MINUTE", "0"))
